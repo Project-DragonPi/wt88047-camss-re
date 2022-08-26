@@ -1,0 +1,276 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/run/media/guo/0ed46c3d-c7db-4e08-80e2-4b18bd7544a2/home/guo/handsomepojects/msm8916-mainline/camss-dump/jni/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	/362fc8b0e/
+ARRAY_SIZE	sensor_lib.h	/^#define ARRAY_SIZE(/;"	d
+CAMIF_BAYER_B_G	sensor_lib.h	/^  CAMIF_BAYER_B_G,$/;"	e	enum:__anona16c5a0b0103
+CAMIF_BAYER_G_B	sensor_lib.h	/^  CAMIF_BAYER_G_B,$/;"	e	enum:__anona16c5a0b0103
+CAMIF_BAYER_G_R	sensor_lib.h	/^  CAMIF_BAYER_G_R,$/;"	e	enum:__anona16c5a0b0103
+CAMIF_BAYER_R_G	sensor_lib.h	/^  CAMIF_BAYER_R_G,$/;"	e	enum:__anona16c5a0b0103
+CAMIF_NUMBEROF_INPUTFORMATTYPE	sensor_lib.h	/^  CAMIF_NUMBEROF_INPUTFORMATTYPE  \/* Used for count purposes only *\/$/;"	e	enum:__anona16c5a0b0103
+CAMIF_YCBCR_4_2_0_LINEPACKED	sensor_lib.h	/^  CAMIF_YCBCR_4_2_0_LINEPACKED, \/* Only valid for Offline Snapshot *\/$/;"	e	enum:__anona16c5a0b0103
+CAMIF_YCBCR_4_2_2_LINEPACKED	sensor_lib.h	/^  CAMIF_YCBCR_4_2_2_LINEPACKED, \/* Only valid for Offline Snapshot *\/$/;"	e	enum:__anona16c5a0b0103
+CAMIF_YCBCR_CB_Y_CR_Y	sensor_lib.h	/^  CAMIF_YCBCR_CB_Y_CR_Y,$/;"	e	enum:__anona16c5a0b0103
+CAMIF_YCBCR_CR_Y_CB_Y	sensor_lib.h	/^  CAMIF_YCBCR_CR_Y_CB_Y,$/;"	e	enum:__anona16c5a0b0103
+CAMIF_YCBCR_Y_CB_Y_CR	sensor_lib.h	/^  CAMIF_YCBCR_Y_CB_Y_CR,$/;"	e	enum:__anona16c5a0b0103
+CAMIF_YCBCR_Y_CR_Y_CB	sensor_lib.h	/^  CAMIF_YCBCR_Y_CR_Y_CB,$/;"	e	enum:__anona16c5a0b0103
+LOCAL_MODULE	Android.mk	/^LOCAL_MODULE := hello_world$/;"	m
+LOCAL_PATH	Android.mk	/^LOCAL_PATH := $(call my-dir)$/;"	m
+LOCAL_SRC_FILES	Android.mk	/^LOCAL_SRC_FILES := main.c$/;"	m
+SENSOR_10_BIT_DIRECT	sensor_lib.h	/^  SENSOR_10_BIT_DIRECT,$/;"	e	enum:__anona16c5a0b0403
+SENSOR_12_BIT_DIRECT	sensor_lib.h	/^  SENSOR_12_BIT_DIRECT$/;"	e	enum:__anona16c5a0b0403
+SENSOR_8_BIT_DIRECT	sensor_lib.h	/^  SENSOR_8_BIT_DIRECT,$/;"	e	enum:__anona16c5a0b0403
+SENSOR_BAYER	sensor_lib.h	/^  SENSOR_BAYER,$/;"	e	enum:__anona16c5a0b0203
+SENSOR_DEFAULT_MODE	sensor_lib.h	/^#define SENSOR_DEFAULT_MODE /;"	d
+SENSOR_FLASH_NOT_SUPPORTED	sensor_lib.h	/^#define SENSOR_FLASH_NOT_SUPPORTED /;"	d
+SENSOR_FLASH_SUPPORTED	sensor_lib.h	/^#define SENSOR_FLASH_SUPPORTED /;"	d
+SENSOR_HDR_MODE	sensor_lib.h	/^#define SENSOR_HDR_MODE /;"	d
+SENSOR_HFR_MODE	sensor_lib.h	/^#define SENSOR_HFR_MODE /;"	d
+SENSOR_LOAD_CHROMATIX	sensor_lib.h	/^  SENSOR_LOAD_CHROMATIX,$/;"	e	enum:__anona16c5a0b0703
+SENSOR_LOAD_CHROMATIX_AR	sensor_lib.h	/^  SENSOR_LOAD_CHROMATIX_AR,$/;"	e	enum:__anona16c5a0b0603
+SENSOR_LOAD_CHROMATIX_MAX	sensor_lib.h	/^  SENSOR_LOAD_CHROMATIX_MAX,$/;"	e	enum:__anona16c5a0b0603
+SENSOR_LOAD_CHROMATIX_PREVIEW	sensor_lib.h	/^  SENSOR_LOAD_CHROMATIX_PREVIEW,$/;"	e	enum:__anona16c5a0b0603
+SENSOR_LOAD_CHROMATIX_VIDEO_DEFAULT	sensor_lib.h	/^  SENSOR_LOAD_CHROMATIX_VIDEO_DEFAULT,$/;"	e	enum:__anona16c5a0b0603
+SENSOR_LOAD_CHROMATIX_VIDEO_HD	sensor_lib.h	/^  SENSOR_LOAD_CHROMATIX_VIDEO_HD,$/;"	e	enum:__anona16c5a0b0603
+SENSOR_LOAD_CHROMATIX_VIDEO_HFR_120FPS	sensor_lib.h	/^  SENSOR_LOAD_CHROMATIX_VIDEO_HFR_120FPS,$/;"	e	enum:__anona16c5a0b0603
+SENSOR_LOAD_CHROMATIX_VIDEO_HFR_150FPS	sensor_lib.h	/^  SENSOR_LOAD_CHROMATIX_VIDEO_HFR_150FPS,$/;"	e	enum:__anona16c5a0b0603
+SENSOR_LOAD_CHROMATIX_VIDEO_HFR_60FPS	sensor_lib.h	/^  SENSOR_LOAD_CHROMATIX_VIDEO_HFR_60FPS,$/;"	e	enum:__anona16c5a0b0603
+SENSOR_LOAD_CHROMATIX_VIDEO_HFR_90FPS	sensor_lib.h	/^  SENSOR_LOAD_CHROMATIX_VIDEO_HFR_90FPS,$/;"	e	enum:__anona16c5a0b0603
+SENSOR_LOAD_CHROMATIX_ZSL	sensor_lib.h	/^  SENSOR_LOAD_CHROMATIX_ZSL,$/;"	e	enum:__anona16c5a0b0603
+SENSOR_MIPI_CSI	sensor_lib.h	/^  SENSOR_MIPI_CSI,$/;"	e	enum:__anona16c5a0b0303
+SENSOR_MIPI_CSI_1	sensor_lib.h	/^  SENSOR_MIPI_CSI_1,$/;"	e	enum:__anona16c5a0b0303
+SENSOR_MIPI_CSI_2	sensor_lib.h	/^  SENSOR_MIPI_CSI_2,$/;"	e	enum:__anona16c5a0b0303
+SENSOR_MODE_HFR_120FPS	sensor_lib.h	/^  SENSOR_MODE_HFR_120FPS,$/;"	e	enum:__anona16c5a0b0503
+SENSOR_MODE_HFR_150FPS	sensor_lib.h	/^  SENSOR_MODE_HFR_150FPS,$/;"	e	enum:__anona16c5a0b0503
+SENSOR_MODE_HFR_60FPS	sensor_lib.h	/^  SENSOR_MODE_HFR_60FPS,$/;"	e	enum:__anona16c5a0b0503
+SENSOR_MODE_HFR_90FPS	sensor_lib.h	/^  SENSOR_MODE_HFR_90FPS,$/;"	e	enum:__anona16c5a0b0503
+SENSOR_MODE_INVALID	sensor_lib.h	/^  SENSOR_MODE_INVALID,$/;"	e	enum:__anona16c5a0b0503
+SENSOR_MODE_PREVIEW	sensor_lib.h	/^  SENSOR_MODE_PREVIEW,$/;"	e	enum:__anona16c5a0b0503
+SENSOR_MODE_RAW_SNAPSHOT	sensor_lib.h	/^  SENSOR_MODE_RAW_SNAPSHOT,$/;"	e	enum:__anona16c5a0b0503
+SENSOR_MODE_SNAPSHOT	sensor_lib.h	/^  SENSOR_MODE_SNAPSHOT,$/;"	e	enum:__anona16c5a0b0503
+SENSOR_MODE_VIDEO	sensor_lib.h	/^  SENSOR_MODE_VIDEO,$/;"	e	enum:__anona16c5a0b0503
+SENSOR_MODE_VIDEO_HD	sensor_lib.h	/^  SENSOR_MODE_VIDEO_HD,$/;"	e	enum:__anona16c5a0b0503
+SENSOR_MODE_ZSL	sensor_lib.h	/^  SENSOR_MODE_ZSL,$/;"	e	enum:__anona16c5a0b0503
+SENSOR_MOUNTANGLE_0	sensor_lib.h	/^#define SENSOR_MOUNTANGLE_0 /;"	d
+SENSOR_MOUNTANGLE_180	sensor_lib.h	/^#define SENSOR_MOUNTANGLE_180 /;"	d
+SENSOR_MOUNTANGLE_270	sensor_lib.h	/^#define SENSOR_MOUNTANGLE_270 /;"	d
+SENSOR_MOUNTANGLE_360	sensor_lib.h	/^#define SENSOR_MOUNTANGLE_360 /;"	d
+SENSOR_MOUNTANGLE_90	sensor_lib.h	/^#define SENSOR_MOUNTANGLE_90 /;"	d
+SENSOR_PARALLEL	sensor_lib.h	/^  SENSOR_PARALLEL,$/;"	e	enum:__anona16c5a0b0303
+SENSOR_SEND_EVENT	sensor_lib.h	/^  SENSOR_SEND_EVENT,$/;"	e	enum:__anona16c5a0b0703
+SENSOR_SET_CSID_CFG	sensor_lib.h	/^  SENSOR_SET_CSID_CFG,$/;"	e	enum:__anona16c5a0b0703
+SENSOR_SET_CSIPHY_CFG	sensor_lib.h	/^  SENSOR_SET_CSIPHY_CFG,$/;"	e	enum:__anona16c5a0b0703
+SENSOR_SET_NEW_RESOLUTION	sensor_lib.h	/^  SENSOR_SET_NEW_RESOLUTION,$/;"	e	enum:__anona16c5a0b0703
+SENSOR_SET_START_STREAM	sensor_lib.h	/^  SENSOR_SET_START_STREAM,$/;"	e	enum:__anona16c5a0b0703
+SENSOR_SET_STOP_STREAM	sensor_lib.h	/^  SENSOR_SET_STOP_STREAM,$/;"	e	enum:__anona16c5a0b0703
+SENSOR_SMETHOD_COLOR_SEQ_AREA_SENSOR	sensor_lib.h	/^  SENSOR_SMETHOD_COLOR_SEQ_AREA_SENSOR=5,$/;"	e	enum:__anona16c5a0b0803
+SENSOR_SMETHOD_COLOR_SEQ_LINEAR_SENSOR	sensor_lib.h	/^  SENSOR_SMETHOD_COLOR_SEQ_LINEAR_SENSOR=8$/;"	e	enum:__anona16c5a0b0803
+SENSOR_SMETHOD_NOT_DEFINED	sensor_lib.h	/^  SENSOR_SMETHOD_NOT_DEFINED = 1,$/;"	e	enum:__anona16c5a0b0803
+SENSOR_SMETHOD_ONE_CHIP_COLOR_AREA_SENSOR	sensor_lib.h	/^  SENSOR_SMETHOD_ONE_CHIP_COLOR_AREA_SENSOR=2,$/;"	e	enum:__anona16c5a0b0803
+SENSOR_SMETHOD_THREE_CHIP_COLOR_AREA_SENSOR	sensor_lib.h	/^  SENSOR_SMETHOD_THREE_CHIP_COLOR_AREA_SENSOR=4,$/;"	e	enum:__anona16c5a0b0803
+SENSOR_SMETHOD_TRILINEAR_SENSOR	sensor_lib.h	/^  SENSOR_SMETHOD_TRILINEAR_SENSOR=7,$/;"	e	enum:__anona16c5a0b0803
+SENSOR_SMETHOD_TWO_CHIP_COLOR_AREA_SENSOR	sensor_lib.h	/^  SENSOR_SMETHOD_TWO_CHIP_COLOR_AREA_SENSOR=3,$/;"	e	enum:__anona16c5a0b0803
+SENSOR_YCBCR	sensor_lib.h	/^  SENSOR_YCBCR$/;"	e	enum:__anona16c5a0b0203
+__SENSOR_LIB_H_	sensor_lib.h	/^#define __SENSOR_LIB_H_$/;"	d
+__anona16c5a0b0103	sensor_lib.h	/^typedef enum {$/;"	g
+__anona16c5a0b0203	sensor_lib.h	/^typedef enum {$/;"	g
+__anona16c5a0b0303	sensor_lib.h	/^typedef enum {$/;"	g
+__anona16c5a0b0403	sensor_lib.h	/^typedef enum {$/;"	g
+__anona16c5a0b0503	sensor_lib.h	/^typedef enum {$/;"	g
+__anona16c5a0b0603	sensor_lib.h	/^typedef enum {$/;"	g
+__anona16c5a0b0703	sensor_lib.h	/^typedef enum {$/;"	g
+__anona16c5a0b0803	sensor_lib.h	/^typedef enum {$/;"	g
+__anona16c5a0b0908	sensor_lib.h	/^typedef struct {$/;"	s
+__anona16c5a0b0a08	sensor_lib.h	/^typedef struct {$/;"	s
+__anona16c5a0b0b08	sensor_lib.h	/^typedef struct {$/;"	s
+__anona16c5a0b0c08	sensor_lib.h	/^typedef struct {$/;"	s
+__anona16c5a0b0d08	sensor_lib.h	/^typedef struct {$/;"	s
+__anona16c5a0b0e08	sensor_lib.h	/^typedef struct {$/;"	s
+__anona16c5a0b0f08	sensor_lib.h	/^typedef struct {$/;"	s
+__anona16c5a0b1008	sensor_lib.h	/^typedef struct {$/;"	s
+__anona16c5a0b1108	sensor_lib.h	/^typedef struct {$/;"	s
+_sensor_stream_info_array_t	sensor_lib.h	/^typedef struct _sensor_stream_info_array_t {$/;"	s
+_sensor_stream_info_t	sensor_lib.h	/^typedef struct _sensor_stream_info_t {$/;"	s
+actuator_name	sensor_lib.h	/^  char* actuator_name;$/;"	m	struct:__anona16c5a0b1108	typeref:typename:char *
+aec_info	sensor_lib.h	/^  sensor_aec_data_t *aec_info;$/;"	m	struct:__anona16c5a0b1108	typeref:typename:sensor_aec_data_t *
+awb_table_size	sensor_lib.h	/^  uint16_t awb_table_size;$/;"	m	struct:__anona16c5a0b0f08	typeref:typename:uint16_t
+binning_factor	sensor_lib.h	/^  uint16_t binning_factor;$/;"	m	struct:msm_sensor_output_info_t	typeref:typename:uint16_t
+binning_factor	sensor_lib.h	/^  uint16_t binning_factor;$/;"	m	struct:sensor_lib_out_info_t	typeref:typename:uint16_t
+bottom_crop	sensor_lib.h	/^  uint16_t bottom_crop;$/;"	m	struct:sensor_crop_parms_t	typeref:typename:uint16_t
+camcorder_chromatix	sensor_lib.h	/^  char *camcorder_chromatix;$/;"	m	struct:sensor_lib_chromatix_t	typeref:typename:char *
+camera_preview_chromatix	sensor_lib.h	/^  char *camera_preview_chromatix;$/;"	m	struct:sensor_lib_chromatix_t	typeref:typename:char *
+camera_snapshot_chromatix	sensor_lib.h	/^  char *camera_snapshot_chromatix;$/;"	m	struct:sensor_lib_chromatix_t	typeref:typename:char *
+chromatix_array	sensor_lib.h	/^  struct sensor_lib_chromatix_array    *chromatix_array;$/;"	m	struct:__anona16c5a0b1108	typeref:struct:sensor_lib_chromatix_array *
+coarse_int_time_addr	sensor_lib.h	/^  uint16_t coarse_int_time_addr;$/;"	m	struct:msm_sensor_exp_gain_info_t	typeref:typename:uint16_t
+common_chromatix	sensor_lib.h	/^  char *common_chromatix;$/;"	m	struct:sensor_lib_chromatix_t	typeref:typename:char *
+connection_mode	sensor_lib.h	/^  sensor_connection_mode_t connection_mode;$/;"	m	struct:__anona16c5a0b0908	typeref:typename:sensor_connection_mode_t
+crop_factor	sensor_lib.h	/^  float crop_factor; \/\/depends on sensor physical dimentions$/;"	m	struct:__anona16c5a0b0c08	typeref:typename:float
+crop_params	sensor_lib.h	/^  struct sensor_crop_parms_t *crop_params;$/;"	m	struct:sensor_lib_crop_params_array	typeref:struct:sensor_crop_parms_t *
+crop_params_array	sensor_lib.h	/^  struct sensor_lib_crop_params_array  *crop_params_array;$/;"	m	struct:__anona16c5a0b1108	typeref:struct:sensor_lib_crop_params_array *
+csi2_params	sensor_lib.h	/^  struct msm_camera_csi2_params **csi2_params;$/;"	m	struct:sensor_lib_csi_params_array	typeref:struct:msm_camera_csi2_params **
+csi_cid_params	sensor_lib.h	/^  struct msm_camera_csid_vc_cfg *csi_cid_params;$/;"	m	struct:__anona16c5a0b1108	typeref:struct:msm_camera_csid_vc_cfg *
+csi_cid_params_size	sensor_lib.h	/^  uint16_t csi_cid_params_size;$/;"	m	struct:__anona16c5a0b1108	typeref:typename:uint16_t
+csi_lane_params	sensor_lib.h	/^  struct csi_lane_params_t *csi_lane_params;$/;"	m	struct:__anona16c5a0b1108	typeref:struct:csi_lane_params_t *
+csi_params_array	sensor_lib.h	/^  struct sensor_lib_csi_params_array   *csi_params_array;$/;"	m	struct:__anona16c5a0b1108	typeref:struct:sensor_lib_csi_params_array *
+dac_offset	sensor_lib.h	/^  int   dac_offset;$/;"	m	struct:__anona16c5a0b0c08	typeref:typename:int
+data	sensor_lib.h	/^  void *data;$/;"	m	struct:__anona16c5a0b1108	typeref:typename:void *
+default_lens_info	sensor_lib.h	/^  sensor_lens_info_t *default_lens_info;$/;"	m	struct:__anona16c5a0b1108	typeref:typename:sensor_lens_info_t *
+digital_gain	sensor_lib.h	/^  float digital_gain;$/;"	m	struct:__anona16c5a0b0a08	typeref:typename:float
+digital_gain	sensor_lib.h	/^  float digital_gain;$/;"	m	struct:__anona16c5a0b0d08	typeref:typename:float
+ebd	sensor_lib.h	/^  int32_t ebd;$/;"	m	struct:sensor_meta_data_out_info_t	typeref:typename:int32_t
+eeprom_name	sensor_lib.h	/^  char* eeprom_name;$/;"	m	struct:__anona16c5a0b1108	typeref:typename:char *
+exp_gain_info	sensor_lib.h	/^  struct msm_sensor_exp_gain_info_t *exp_gain_info;$/;"	m	struct:__anona16c5a0b1108	typeref:struct:msm_sensor_exp_gain_info_t *
+exposure_func_table	sensor_lib.h	/^  sensor_exposure_table_t *exposure_func_table;$/;"	m	struct:__anona16c5a0b1108	typeref:typename:sensor_exposure_table_t *
+exposure_info	sensor_lib.h	/^  sensor_exposure_info_t exposure_info;$/;"	m	struct:__anona16c5a0b1108	typeref:typename:sensor_exposure_info_t
+exposure_table_size	sensor_lib.h	/^  uint16_t exposure_table_size;$/;"	m	struct:__anona16c5a0b1108	typeref:typename:uint16_t
+f_number	sensor_lib.h	/^  float f_number;$/;"	m	struct:__anona16c5a0b0c08	typeref:typename:float
+fmt	sensor_lib.h	/^  int32_t fmt;$/;"	m	struct:sensor_meta_data_out_info_t	typeref:typename:int32_t
+focal_length	sensor_lib.h	/^  float focal_length;$/;"	m	struct:__anona16c5a0b0c08	typeref:typename:float
+fourcc	sensor_lib.h	/^  uint32_t fourcc;$/;"	m	struct:sensor_pix_fmt_info_t	typeref:typename:uint32_t
+fps	sensor_lib.h	/^  uint16_t fps;$/;"	m	struct:msm_sensor_output_info_t	typeref:typename:uint16_t
+frame_length_lines	sensor_lib.h	/^  uint16_t frame_length_lines;$/;"	m	struct:msm_sensor_output_info_t	typeref:typename:uint16_t
+frame_length_lines	sensor_lib.h	/^  uint16_t frame_length_lines;$/;"	m	struct:msm_sensor_output_reg_addr_t	typeref:typename:uint16_t
+frame_length_lines	sensor_lib.h	/^  uint16_t frame_length_lines;$/;"	m	struct:sensor_lib_out_info_t	typeref:typename:uint16_t
+get_scale_tbl	sensor_lib.h	/^  int32_t (*get_scale_tbl)(msm_sensor_dimension_t *);$/;"	m	struct:__anona16c5a0b1108	typeref:typename:int32_t (*)(msm_sensor_dimension_t *)
+global_gain_addr	sensor_lib.h	/^  uint16_t global_gain_addr;$/;"	m	struct:msm_sensor_exp_gain_info_t	typeref:typename:uint16_t
+groupoff_settings	sensor_lib.h	/^  struct msm_camera_i2c_reg_setting *groupoff_settings;$/;"	m	struct:__anona16c5a0b1108	typeref:struct:msm_camera_i2c_reg_setting *
+groupon_settings	sensor_lib.h	/^  struct msm_camera_i2c_reg_setting *groupon_settings;$/;"	m	struct:__anona16c5a0b1108	typeref:struct:msm_camera_i2c_reg_setting *
+height	sensor_lib.h	/^  int32_t height;$/;"	m	struct:__anona16c5a0b1008	typeref:typename:int32_t
+height	sensor_lib.h	/^  int32_t height;$/;"	m	struct:sensor_meta_data_out_info_t	typeref:typename:int32_t
+hor_view_angle	sensor_lib.h	/^  float hor_view_angle;$/;"	m	struct:__anona16c5a0b0c08	typeref:typename:float
+init_settings_array	sensor_lib.h	/^  struct sensor_lib_reg_settings_array *init_settings_array;$/;"	m	struct:__anona16c5a0b1108	typeref:struct:sensor_lib_reg_settings_array *
+left_crop	sensor_lib.h	/^  uint16_t left_crop;$/;"	m	struct:sensor_crop_parms_t	typeref:typename:uint16_t
+line_count	sensor_lib.h	/^  uint16_t line_count;$/;"	m	struct:__anona16c5a0b0d08	typeref:typename:uint16_t
+line_length_pclk	sensor_lib.h	/^  uint16_t line_length_pclk;$/;"	m	struct:msm_sensor_output_info_t	typeref:typename:uint16_t
+line_length_pclk	sensor_lib.h	/^  uint16_t line_length_pclk;$/;"	m	struct:msm_sensor_output_reg_addr_t	typeref:typename:uint16_t
+line_length_pclk	sensor_lib.h	/^  uint16_t line_length_pclk;$/;"	m	struct:sensor_lib_out_info_t	typeref:typename:uint16_t
+lines_per_frame	sensor_lib.h	/^  uint32_t lines_per_frame;$/;"	m	struct:__anona16c5a0b0a08	typeref:typename:uint32_t
+liveshot_chromatix	sensor_lib.h	/^  char *liveshot_chromatix;$/;"	m	struct:sensor_lib_chromatix_t	typeref:typename:char *
+long_line_count	sensor_lib.h	/^  uint32_t long_line_count;$/;"	m	struct:__anona16c5a0b0d08	typeref:typename:uint32_t
+main	main.c	/^int main(int argc,char** args) {$/;"	f	typeref:typename:int
+manual_exp_info	sensor_lib.h	/^  sensor_manual_exposure_info_t *manual_exp_info;$/;"	m	struct:__anona16c5a0b1108	typeref:typename:sensor_manual_exposure_info_t *
+max_exposure_time	sensor_lib.h	/^  uint64_t max_exposure_time;$/;"	m	struct:__anona16c5a0b0b08	typeref:typename:uint64_t
+max_fps	sensor_lib.h	/^  float    max_fps;$/;"	m	struct:sensor_lib_out_info_t	typeref:typename:float
+max_fps	sensor_lib.h	/^  uint32_t max_fps;$/;"	m	struct:__anona16c5a0b0a08	typeref:typename:uint32_t
+max_gain	sensor_lib.h	/^  float max_gain;$/;"	m	struct:__anona16c5a0b0a08	typeref:typename:float
+max_iso	sensor_lib.h	/^  uint32_t max_iso;$/;"	m	struct:__anona16c5a0b0b08	typeref:typename:uint32_t
+max_linecount	sensor_lib.h	/^  uint32_t max_linecount;$/;"	m	struct:__anona16c5a0b0a08	typeref:typename:uint32_t
+meta_data_out_info	sensor_lib.h	/^  struct sensor_meta_data_out_info_t *meta_data_out_info;$/;"	m	struct:sensor_lib_meta_data_info_array	typeref:struct:sensor_meta_data_out_info_t *
+meta_data_out_info_array	sensor_lib.h	/^  struct sensor_lib_meta_data_info_array *meta_data_out_info_array;$/;"	m	struct:__anona16c5a0b1108	typeref:struct:sensor_lib_meta_data_info_array *
+min_exposure_time	sensor_lib.h	/^  uint64_t min_exposure_time;$/;"	m	struct:__anona16c5a0b0b08	typeref:typename:uint64_t
+min_fps	sensor_lib.h	/^  float    min_fps;$/;"	m	struct:sensor_lib_out_info_t	typeref:typename:float
+min_iso	sensor_lib.h	/^  uint32_t min_iso;$/;"	m	struct:__anona16c5a0b0b08	typeref:typename:uint32_t
+mode	sensor_lib.h	/^  uint32_t mode;$/;"	m	struct:sensor_lib_out_info_t	typeref:typename:uint32_t
+msm_sensor_dimension_t	sensor_lib.h	/^} msm_sensor_dimension_t;$/;"	t	typeref:struct:__anona16c5a0b1008
+msm_sensor_exp_gain_info_t	sensor_lib.h	/^struct msm_sensor_exp_gain_info_t {$/;"	s
+msm_sensor_output_info_t	sensor_lib.h	/^struct msm_sensor_output_info_t {$/;"	s
+msm_sensor_output_reg_addr_t	sensor_lib.h	/^struct msm_sensor_output_reg_addr_t {$/;"	s
+near_end_distance	sensor_lib.h	/^  uint32_t near_end_distance;$/;"	m	struct:__anona16c5a0b0c08	typeref:typename:uint32_t
+op_mode	sensor_lib.h	/^  sensor_mode_t op_mode;$/;"	m	struct:__anona16c5a0b0a08	typeref:typename:sensor_mode_t
+op_pixel_clk	sensor_lib.h	/^  uint32_t op_pixel_clk;$/;"	m	struct:msm_sensor_output_info_t	typeref:typename:uint32_t
+op_pixel_clk	sensor_lib.h	/^  uint32_t op_pixel_clk;$/;"	m	struct:sensor_lib_out_info_t	typeref:typename:uint32_t
+out_info	sensor_lib.h	/^  struct sensor_lib_out_info_t *out_info;$/;"	m	struct:sensor_lib_out_info_array	typeref:struct:sensor_lib_out_info_t *
+out_info_array	sensor_lib.h	/^  struct sensor_lib_out_info_array     *out_info_array;$/;"	m	struct:__anona16c5a0b1108	typeref:struct:sensor_lib_out_info_array *
+output_format	sensor_lib.h	/^  sensor_output_format_t output_format;$/;"	m	struct:__anona16c5a0b0908	typeref:typename:sensor_output_format_t
+output_reg_addr	sensor_lib.h	/^  struct msm_sensor_output_reg_addr_t *output_reg_addr;$/;"	m	struct:__anona16c5a0b1108	typeref:struct:msm_sensor_output_reg_addr_t *
+pclk	sensor_lib.h	/^  uint32_t pclk;$/;"	m	struct:__anona16c5a0b0a08	typeref:typename:uint32_t
+pix_fmt_fourcc	sensor_lib.h	/^  struct sensor_pix_fmt_info_t *pix_fmt_fourcc;$/;"	m	struct:_sensor_stream_info_t	typeref:struct:sensor_pix_fmt_info_t *
+pix_size	sensor_lib.h	/^  float pix_size;$/;"	m	struct:__anona16c5a0b0c08	typeref:typename:float
+pixels_per_line	sensor_lib.h	/^  uint32_t pixels_per_line;$/;"	m	struct:__anona16c5a0b0a08	typeref:typename:uint32_t
+raw_output	sensor_lib.h	/^  sensor_raw_output_t raw_output;$/;"	m	struct:__anona16c5a0b0908	typeref:typename:sensor_raw_output_t
+reg_gain	sensor_lib.h	/^  uint16_t reg_gain;$/;"	m	struct:__anona16c5a0b0d08	typeref:typename:uint16_t
+reg_settings	sensor_lib.h	/^  struct msm_camera_i2c_reg_setting *reg_settings;$/;"	m	struct:sensor_lib_reg_settings_array	typeref:struct:msm_camera_i2c_reg_setting *
+res_cfg_type	sensor_lib.h	/^  sensor_res_cfg_type_t *res_cfg_type;$/;"	m	struct:sensor_res_cfg_table_t	typeref:typename:sensor_res_cfg_type_t *
+res_settings_array	sensor_lib.h	/^  struct sensor_lib_reg_settings_array *res_settings_array;$/;"	m	struct:__anona16c5a0b1108	typeref:struct:sensor_lib_reg_settings_array *
+right_crop	sensor_lib.h	/^  uint16_t right_crop;$/;"	m	struct:sensor_crop_parms_t	typeref:typename:uint16_t
+scale_tbl_cnt	sensor_lib.h	/^  uint8_t scale_tbl_cnt;$/;"	m	struct:__anona16c5a0b1108	typeref:typename:uint8_t
+sensing_method	sensor_lib.h	/^  sensor_sensing_method_type_t sensing_method;$/;"	m	struct:__anona16c5a0b0c08	typeref:typename:sensor_sensing_method_type_t
+sensor_aec_data_t	sensor_lib.h	/^} sensor_aec_data_t;$/;"	t	typeref:struct:__anona16c5a0b0a08
+sensor_calculate_exposure	sensor_lib.h	/^  int32_t (*sensor_calculate_exposure) (float, uint32_t,$/;"	m	struct:__anona16c5a0b0e08	typeref:typename:int32_t (*)(float,uint32_t,sensor_exposure_info_t *)
+sensor_camif_inputformat_t	sensor_lib.h	/^} sensor_camif_inputformat_t;$/;"	t	typeref:enum:__anona16c5a0b0103
+sensor_connection_mode_t	sensor_lib.h	/^} sensor_connection_mode_t;$/;"	t	typeref:enum:__anona16c5a0b0303
+sensor_crop_parms_t	sensor_lib.h	/^struct sensor_crop_parms_t {$/;"	s
+sensor_digital_gain	sensor_lib.h	/^  float sensor_digital_gain;$/;"	m	struct:__anona16c5a0b0d08	typeref:typename:float
+sensor_exposure_info_t	sensor_lib.h	/^} sensor_exposure_info_t;$/;"	t	typeref:struct:__anona16c5a0b0d08
+sensor_exposure_table_t	sensor_lib.h	/^} sensor_exposure_table_t;$/;"	t	typeref:struct:__anona16c5a0b0e08
+sensor_fill_awb_array	sensor_lib.h	/^  int32_t (*sensor_fill_awb_array)(uint16_t, uint16_t,$/;"	m	struct:__anona16c5a0b0f08	typeref:typename:int32_t (*)(uint16_t,uint16_t,struct msm_camera_i2c_seq_reg_setting *)
+sensor_fill_exposure_array	sensor_lib.h	/^  int32_t (*sensor_fill_exposure_array)(uint16_t, uint32_t, uint32_t,$/;"	m	struct:__anona16c5a0b0e08	typeref:typename:int32_t (*)(uint16_t,uint32_t,uint32_t,int32_t,uint32_t,struct msm_camera_i2c_reg_setting *)
+sensor_init_params	sensor_lib.h	/^  struct msm_sensor_init_params *sensor_init_params;$/;"	m	struct:__anona16c5a0b1108	typeref:struct:msm_sensor_init_params *
+sensor_lens_info_t	sensor_lib.h	/^} sensor_lens_info_t;$/;"	t	typeref:struct:__anona16c5a0b0c08
+sensor_lib_chromatix	sensor_lib.h	/^  struct sensor_lib_chromatix_t *sensor_lib_chromatix;$/;"	m	struct:sensor_lib_chromatix_array	typeref:struct:sensor_lib_chromatix_t *
+sensor_lib_chromatix_array	sensor_lib.h	/^struct sensor_lib_chromatix_array {$/;"	s
+sensor_lib_chromatix_t	sensor_lib.h	/^struct sensor_lib_chromatix_t {$/;"	s
+sensor_lib_crop_params_array	sensor_lib.h	/^struct sensor_lib_crop_params_array{$/;"	s
+sensor_lib_csi_params_array	sensor_lib.h	/^struct sensor_lib_csi_params_array {$/;"	s
+sensor_lib_meta_data_info_array	sensor_lib.h	/^struct sensor_lib_meta_data_info_array {$/;"	s
+sensor_lib_out_info_array	sensor_lib.h	/^struct sensor_lib_out_info_array {$/;"	s
+sensor_lib_out_info_t	sensor_lib.h	/^struct sensor_lib_out_info_t {$/;"	s
+sensor_lib_reg_settings_array	sensor_lib.h	/^struct sensor_lib_reg_settings_array {$/;"	s
+sensor_lib_t	sensor_lib.h	/^} sensor_lib_t;$/;"	t	typeref:struct:__anona16c5a0b1108
+sensor_load_chromatix_t	sensor_lib.h	/^} sensor_load_chromatix_t;$/;"	t	typeref:enum:__anona16c5a0b0603
+sensor_manual_exposure_info_t	sensor_lib.h	/^} sensor_manual_exposure_info_t;$/;"	t	typeref:struct:__anona16c5a0b0b08
+sensor_max_immediate_frame_delay	sensor_lib.h	/^  uint32_t sensor_max_immediate_frame_delay;$/;"	m	struct:__anona16c5a0b1108	typeref:typename:uint32_t
+sensor_max_pipeline_frame_delay	sensor_lib.h	/^  uint32_t sensor_max_pipeline_frame_delay;$/;"	m	struct:__anona16c5a0b1108	typeref:typename:uint32_t
+sensor_meta_data_out_info_t	sensor_lib.h	/^struct sensor_meta_data_out_info_t {$/;"	s
+sensor_mode_t	sensor_lib.h	/^} sensor_mode_t;$/;"	t	typeref:enum:__anona16c5a0b0503
+sensor_num_HDR_frame_skip	sensor_lib.h	/^  uint16_t sensor_num_HDR_frame_skip;$/;"	m	struct:__anona16c5a0b1108	typeref:typename:uint16_t
+sensor_num_frame_skip	sensor_lib.h	/^  uint16_t sensor_num_frame_skip;$/;"	m	struct:__anona16c5a0b1108	typeref:typename:uint16_t
+sensor_output	sensor_lib.h	/^  sensor_output_t *sensor_output;$/;"	m	struct:__anona16c5a0b1108	typeref:typename:sensor_output_t *
+sensor_output_format_t	sensor_lib.h	/^} sensor_output_format_t;$/;"	t	typeref:enum:__anona16c5a0b0203
+sensor_output_t	sensor_lib.h	/^} sensor_output_t;$/;"	t	typeref:struct:__anona16c5a0b0908
+sensor_pix_fmt_info_t	sensor_lib.h	/^struct sensor_pix_fmt_info_t {$/;"	s
+sensor_raw_output_t	sensor_lib.h	/^} sensor_raw_output_t;$/;"	t	typeref:enum:__anona16c5a0b0403
+sensor_real_gain	sensor_lib.h	/^  float sensor_real_gain;$/;"	m	struct:__anona16c5a0b0d08	typeref:typename:float
+sensor_res_cfg_table	sensor_lib.h	/^  struct sensor_res_cfg_table_t *sensor_res_cfg_table;$/;"	m	struct:__anona16c5a0b1108	typeref:struct:sensor_res_cfg_table_t *
+sensor_res_cfg_table_t	sensor_lib.h	/^struct sensor_res_cfg_table_t {$/;"	s
+sensor_res_cfg_type_t	sensor_lib.h	/^} sensor_res_cfg_type_t;$/;"	t	typeref:enum:__anona16c5a0b0703
+sensor_sensing_method_type_t	sensor_lib.h	/^}sensor_sensing_method_type_t;$/;"	t	typeref:enum:__anona16c5a0b0803
+sensor_slave_info	sensor_lib.h	/^  struct msm_camera_sensor_slave_info *sensor_slave_info;$/;"	m	struct:__anona16c5a0b1108	typeref:struct:msm_camera_sensor_slave_info *
+sensor_stream_info	sensor_lib.h	/^  sensor_stream_info_t *sensor_stream_info;$/;"	m	struct:_sensor_stream_info_array_t	typeref:typename:sensor_stream_info_t *
+sensor_stream_info_array	sensor_lib.h	/^  sensor_stream_info_array_t *sensor_stream_info_array;$/;"	m	struct:__anona16c5a0b1108	typeref:typename:sensor_stream_info_array_t *
+sensor_stream_info_array_t	sensor_lib.h	/^} sensor_stream_info_array_t;$/;"	t	typeref:struct:_sensor_stream_info_array_t
+sensor_stream_info_t	sensor_lib.h	/^} sensor_stream_info_t;$/;"	t	typeref:struct:_sensor_stream_info_t
+sensor_supported_effect_mode	sensor_lib.h	/^  uint32_t *sensor_supported_effect_mode;$/;"	m	struct:__anona16c5a0b1108	typeref:typename:uint32_t *
+sensor_supported_scene_mode	sensor_lib.h	/^  uint32_t *sensor_supported_scene_mode;$/;"	m	struct:__anona16c5a0b1108	typeref:typename:uint32_t *
+sensor_video_hdr_table_t	sensor_lib.h	/^} sensor_video_hdr_table_t;$/;"	t	typeref:struct:__anona16c5a0b0f08
+size	sensor_lib.h	/^  uint16_t size;$/;"	m	struct:_sensor_stream_info_array_t	typeref:typename:uint16_t
+size	sensor_lib.h	/^  uint16_t size;$/;"	m	struct:sensor_lib_chromatix_array	typeref:typename:uint16_t
+size	sensor_lib.h	/^  uint16_t size;$/;"	m	struct:sensor_lib_crop_params_array	typeref:typename:uint16_t
+size	sensor_lib.h	/^  uint16_t size;$/;"	m	struct:sensor_lib_csi_params_array	typeref:typename:uint16_t
+size	sensor_lib.h	/^  uint16_t size;$/;"	m	struct:sensor_lib_meta_data_info_array	typeref:typename:uint16_t
+size	sensor_lib.h	/^  uint16_t size;$/;"	m	struct:sensor_lib_out_info_array	typeref:typename:uint16_t
+size	sensor_lib.h	/^  uint16_t size;$/;"	m	struct:sensor_res_cfg_table_t	typeref:typename:uint16_t
+size	sensor_lib.h	/^  uint32_t                          size;$/;"	m	struct:sensor_lib_reg_settings_array	typeref:typename:uint32_t
+snapshot_exp_wait_frames	sensor_lib.h	/^  uint16_t snapshot_exp_wait_frames;$/;"	m	struct:__anona16c5a0b1108	typeref:typename:uint16_t
+start_settings	sensor_lib.h	/^  struct msm_camera_i2c_reg_setting *start_settings;$/;"	m	struct:__anona16c5a0b1108	typeref:struct:msm_camera_i2c_reg_setting *
+stats_type	sensor_lib.h	/^  enum sensor_stats_type stats_type;$/;"	m	struct:sensor_meta_data_out_info_t	typeref:enum:sensor_stats_type
+stop_settings	sensor_lib.h	/^  struct msm_camera_i2c_reg_setting *stop_settings;$/;"	m	struct:__anona16c5a0b1108	typeref:struct:msm_camera_i2c_reg_setting *
+stored_digital_gain	sensor_lib.h	/^  float stored_digital_gain;$/;"	m	struct:__anona16c5a0b0a08	typeref:typename:float
+sync_exp_gain	sensor_lib.h	/^  uint8_t sync_exp_gain;$/;"	m	struct:__anona16c5a0b1108	typeref:typename:uint8_t
+top_crop	sensor_lib.h	/^  uint16_t top_crop;$/;"	m	struct:sensor_crop_parms_t	typeref:typename:uint16_t
+total_f_dist	sensor_lib.h	/^  float total_f_dist;$/;"	m	struct:__anona16c5a0b0c08	typeref:typename:float
+um_per_dac	sensor_lib.h	/^  float um_per_dac;$/;"	m	struct:__anona16c5a0b0c08	typeref:typename:float
+use_long_exposure	sensor_lib.h	/^  uint16_t use_long_exposure;$/;"	m	struct:__anona16c5a0b0d08	typeref:typename:uint16_t
+vc_cfg	sensor_lib.h	/^  struct msm_camera_csid_vc_cfg *vc_cfg;$/;"	m	struct:_sensor_stream_info_t	typeref:struct:msm_camera_csid_vc_cfg *
+vc_cfg_size	sensor_lib.h	/^  uint16_t vc_cfg_size;$/;"	m	struct:_sensor_stream_info_t	typeref:typename:uint16_t
+ver_view_angle	sensor_lib.h	/^  float ver_view_angle;$/;"	m	struct:__anona16c5a0b0c08	typeref:typename:float
+vert_offset	sensor_lib.h	/^  uint16_t vert_offset;$/;"	m	struct:msm_sensor_exp_gain_info_t	typeref:typename:uint16_t
+video_hdr_awb_lsc_func_table	sensor_lib.h	/^  sensor_video_hdr_table_t *video_hdr_awb_lsc_func_table;$/;"	m	struct:__anona16c5a0b1108	typeref:typename:sensor_video_hdr_table_t *
+video_hdr_capability	sensor_lib.h	/^  int video_hdr_capability;$/;"	m	struct:__anona16c5a0b0f08	typeref:typename:int
+vt_pixel_clk	sensor_lib.h	/^  uint32_t vt_pixel_clk;$/;"	m	struct:msm_sensor_output_info_t	typeref:typename:uint32_t
+vt_pixel_clk	sensor_lib.h	/^  uint32_t vt_pixel_clk;$/;"	m	struct:sensor_lib_out_info_t	typeref:typename:uint32_t
+width	sensor_lib.h	/^  int32_t width;$/;"	m	struct:__anona16c5a0b1008	typeref:typename:int32_t
+width	sensor_lib.h	/^  int32_t width;$/;"	m	struct:sensor_meta_data_out_info_t	typeref:typename:int32_t
+x_output	sensor_lib.h	/^  uint16_t x_output;$/;"	m	struct:msm_sensor_output_info_t	typeref:typename:uint16_t
+x_output	sensor_lib.h	/^  uint16_t x_output;$/;"	m	struct:msm_sensor_output_reg_addr_t	typeref:typename:uint16_t
+x_output	sensor_lib.h	/^  uint16_t x_output;$/;"	m	struct:sensor_lib_out_info_t	typeref:typename:uint16_t
+y_output	sensor_lib.h	/^  uint16_t y_output;$/;"	m	struct:msm_sensor_output_info_t	typeref:typename:uint16_t
+y_output	sensor_lib.h	/^  uint16_t y_output;$/;"	m	struct:msm_sensor_output_reg_addr_t	typeref:typename:uint16_t
+y_output	sensor_lib.h	/^  uint16_t y_output;$/;"	m	struct:sensor_lib_out_info_t	typeref:typename:uint16_t
